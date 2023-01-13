@@ -1,13 +1,13 @@
 <img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/6507113/monaba-logo.png?width=64" alt="Monaba" width="64"/>
 
-Monaba
+Minaba
 ======
 
-Imageboard engine written in Haskell and powered by Yesod. [Demo board](http://haibane.ru).
+Fork of imageboard engine written in Haskell and powered by Yesod. [Demo board](http://haibane.ru).
 
 It's a classic web application with the flavour of AJAX and EventSource used to extend UI of good ol' design insipred by Wakaba.
 
-GitLab CI/CD: https://gitlab.com/ahushh/Monaba
+Original GitLab CI/CD: https://gitlab.com/ahushh/Monaba
 
 Features
 ------
